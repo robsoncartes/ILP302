@@ -1,8 +1,8 @@
-# Análise de Prestação de Contas Partidárias de Eleições Estaduais
+# Laboratórios e Atividades de PL/SQL realizados no 2° Semestre de 2020
 ## FATEC SJC - Professor Jessen Vidal
-### Curso: Tecnologia em Banco de Dados.
-### **Disciplina:** Programação Avançada em Banco de Dados
-### **Professor:** Me. Carlos Lombard Garcia
+### Curso: Tecnologia em Banco de Dados
+#### **Disciplina:** Programação Avançada em Banco de Dados
+#### **Professor:** Me. Carlos Lombard Garcia
 
 |             **Aluno**    	     |             **Email**           |                **Github**            	 |
 |:------------------------------:|:-------------------------------:|:---------------------------------------:|
