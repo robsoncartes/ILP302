@@ -10,6 +10,6 @@
 
 ## Repositório das Atividades da Disciplina: Programação Avançada em Banco de Dados.
 
-Ver [Atividade1](atividade1)\
-Ver [Atividade2](atividade2)\
-Ver [Atividade3](link)
+Ver [Atividade1](atividade1-lab1)\
+Ver [Atividade2](atividade2-lab2)\
+Ver [Atividade3](atividade3-lab3)
