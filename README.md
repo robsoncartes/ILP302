@@ -12,4 +12,5 @@
 
 Ver [Atividade1](atividade1-lab1)\
 Ver [Atividade2](atividade2-lab2)\
-Ver [Atividade3](atividade3-lab3)
+Ver [Atividade3](atividade3-lab3)\
+Ver [Atividade4](atividade4-lab4)
